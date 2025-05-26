@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('Texto desde main'),
+            const Text('Texto desde rama-conflicto'),
             Image.asset('assets/images/papa.jpg', width: 150),
             Text(
               '$_counter',
